@@ -27,12 +27,13 @@ public class Lab {
      */
     public String copy(String text){
        //return "return text please!";
-       String str1 = "Hello Gene!!";
+      // String str1 = "polly";
+       //String str2 = "hello";
        //return "hello"; 
        //return hello;   
        //return "polly"; 
        //return polly;   
-       //return "text";  
-       return str1;
+       return text;  
     }
+    
 }
